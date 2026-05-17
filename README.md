@@ -1,8 +1,8 @@
-# Run and deploy your AI Studio app
+# Run and deploy your AI Fake News Detector
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/1748740b-0ec7-4a90-a013-19735fd2ea93
+View your app:
 
 ## Run Locally
 
