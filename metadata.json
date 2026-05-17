@@ -1,0 +1,8 @@
+{
+  "name": "VeriTrust",
+  "description": "AI-powered fake news detector and credibility analyzer using advanced NLP logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
