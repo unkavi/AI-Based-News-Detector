@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app:
+View your app: https://6a09ff394281fe4640f3ef02--sweet-duckanoo-fba7c4.netlify.app/
 
 ## Run Locally
 
